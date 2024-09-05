@@ -10,7 +10,7 @@ st.set_page_config(page_title='Car Stock Dashboard', page_icon=':car:', layout='
 # Load the data
 @st.cache_data
 def get_data():
-    data = pd.read_csv("cars.csv",index_col=0)
+    data = pd.read_csv("Car_Sales/cars.csv",index_col=0)
     return data
 
 df = get_data()
