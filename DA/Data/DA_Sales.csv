@@ -1,0 +1,197 @@
+CUSTOMER_ID,Name,Estate,plot,cost_of_land,amount_paid,Balance,Refund,PAYMENT TYPE,DURATION OF PAY,PAYMENT STATUS
+ADEDUNNI 001,Nwachukwu Chinedu Paul,Olive Court Extension,0.5,525000,525000,0,0,Outright,Instant,Completed
+ADEDUNNI 002,Erue Anthony,Freedom City Phase 3,2,2600000,2600000,0,0,Installment,12 months,Completed
+ADEDUNNI 003,Erue Anthony,Legend City,3,5100000,2559200,2540800,0,Installment,12 months,Uncompleted
+ADEDUNNI 003,Erue Anthony,"Top Grange, Orile Ilugun",2,600000,600000,0,0,Outright,Instant,Completed
+ADEDUNNI 003,Destiny Anthony,Freedom City Splendor,2,12000000,12000000,0,0,Outright,Instant,Completed
+ADEDUNNI 004,Odusanya Damilola Kanyinsola,Freedom City Phase 3,1,975000,975000,0,0,Outright,Instant,Completed
+ADEDUNNI 005,Christopher Ihegbu,Freedom City Phase 3,2,2600000,2600000,0,0,Installment,6 months,Completed
+ADEDUNNI 006,Ajala Babatunde,"Greenfield, Abeokuta",1,425000,425000,0,0,Outright,Instant,Completed
+ADEDUNNI 007,Bala Hussein Mohammed,Freedom City Phase 3,1,1275000,1275000,0,0,Outright,Instant,Completed
+ADEDUNNI 008,Oki Oyinberakim David & Oki Uzoma Beauty,Freedom City Phase 3,1,1275000,1275000,0,0,Outright,Instant,Completed
+ADEDUNNI 009,Zakariyah Heebatullah Arikeade,Freedom City Phase 3,1,1350000,1350000,0,0,Installment,9 months,Completed
+ADEDUNNI 010,Olusegun Ajayi,Dreamland Moniya,1,540000,540000,0,0,Installment,9 months,Completed
+ADEDUNNI 010,Olusegun Ajayi,Freedom City Phase 3,1,1350000,1050000,300000,0,Installment,9 months,Uncompleted
+ADEDUNNI 010,Olusegun Ajayi,Legend City,1,1500000,1500000,0,0,Installment,9 months,Completed
+ADEDUNNI 010,Olusegun Ajayi,"Hills and Fountain, Abuja",1,3500000,1046000,2454000,0,Installment,12 months,Uncompleted
+ADEDUNNI 012,Bolarinwa Adeola Owoeye,"Greenfield, Abeokuta",1,300000,300000,0,0,Outright,Instant,Completed
+ADEDUNNI 013,Damilola Theresa Agbabiaka,"Greenfield, Abeokuta",1,300000,300000,0,0,Outright,Instant,Completed
+ADEDUNNI 014,Cynthia Efosa Ogbomo,"Hills and Fountain, Abuja",1,4500000,4500000,0,0,Installment,12 Months,Completed
+ADEDUNNI 015,Mrs Okogie Oluwaseyi Temitope,Freedom City Phase 3,1,1350000,450000,900000,0,Installment,9 months,Uncompleted
+ADEDUNNI 016,Adejobi Adebisi Hannah,Freedom City Phase 3,1,1350000,1200000,150000,0,Installment,9 months,Uncompleted
+ADEDUNNI 017,Oke Oluwaseun Abayomi,Freedom City Phase 3,1,1350000,1350000,0,0,Outright,Instant,Completed
+HALIMA ,Osho Oluwafemi Charles,"Greenfield, Abeokuta",2,600000,600000,0,0,Outright,Instant,Completed
+ADEDUNNI 018,Olori Ademola Samsideen,"Greenfield, Abeokuta",2,600000,600000,0,0,Outright,Instant,Completed
+ADEDUNNI 018,Olori Ademola Samsideen,"Kingsland, Epe",1,840000,840000,0,0,Outright,Instant,Completed
+ADEDUNNI 019,Adeolu Olufemi Adeniji,Freedom City Phase 3,1,1350000,1350000,0,0,Installment,9 months,Completed
+ADEDUNNI 019,Adeolu Olufemi Adeniji,"Kingsland, Epe",1,1400000,1400000,0,0,Installment,12 months,Completed
+ADEDUNNI 020,Yakubu Arikewushola,"Greenland, Ifo",1,600000,600000,0,0,Outright,Instant,Completed
+ADEDUNNI 021,Jackson Festus Omotunde,Freedom City Phase 3,1,1350000,2500000,0,1150000,Installment,9 months,Completed
+ADEDUNNI 021,Jackson Festus Omotunde,"Greenland, Ifo",1,800000,800000,0,0,Installment,6 Months,Completed
+ADEDUNNI 022,Ehizogie Vivian Otasowie,Freedom City Phase 3,1,1350000,1350000,0,0,Installment,9 months,Completed
+ADEDUNNI 023,Sanni Abubakar,Preston Seaside,1,750000,500000,250000,0,Installment,12 Months,Uncompleted
+ADEDUNNI 024,Dunga Jacob Amos,Freedom City Phase 3,1,1350000,900000,450000,0,Installment,9 months,Uncompleted
+ADEDUNNI 025,Akinade Emmanuel Fikayo,Freedom City Phase 3,1,1350000,1350000,0,0,Installment,9 months,Completed
+ADEDUNNI 026,Okogie Felix Michael,Freedom City Phase 3,1,1350000,1200000,150000,0,Installment,9 months,Uncompleted
+ADEDUNNI 027,Savuk Mabel,"Greenland, Ifo",1,480000,480000,0,0,Outright,Instant,Completed
+ADEDUNNI 027,Savuk Mabel,"Greenfield, Abeokuta",1,300000,300000,0,0,Outright,Instant,Completed
+ADEDUNNI 028,Saheed Samuel Ayodele,"Greenfield, Abeokuta",1,540000,420000,120000,0,Installment,9 months,Uncompleted
+ADEDUNNI 029,Babatunde Azeez Ilelaboye,Preston Seaside,0.5,350000,350000,0,0,Installment,6 Months,Completed
+ADEDUNNI 030,Olapade Olusegun,Dreamland Moniya,1,650000,650000,0,0,Installment,12 Months,Completed
+ADEDUNNI 031,Osagie Osahon,Solace Garden,1,1500000,1500000,0,0,Installment,12 Months,Completed
+ADEDUNNI 031,Osagie Osahon,Dreamland Moniya,1,650000,650000,0,0,Installment,12 Months,Completed
+ADEDUNNI 032,Victor Adeshile,"Greenfield, Abeokuta",1,540000,360000,180000,0,Installment,9 months,Uncompleted
+ADEDUNNI 033,Shakiru Sule Gbolahan,Solace Garden,1,1275000,1275000,0,0,Outright,Instant,Completed
+ADEDUNNI 033,Shakiru Sule Gbolahan,"Kingsland, Epe",1,1190000,1190000,0,0,Outright,Instant,Completed
+ADEDUNNI 033,Shakiru Sule Gbolahan,"Top Grange, Orile Ilugun",6,1800000,800000,1000000,0,Outright,Instant,Uncompleted
+ADEDUNNI 034,Sariyat Iyabo Bello-Lawal,Dreamland Moniya,2,1105000,1105000,0,0,Outright,Instant,Completed
+ADEDUNNI 034,Sariyat Iyabo Bello-Lawal,Legend City,2,3400000,2253728,1146272,0,Installment,12 Months,Uncompleted
+ADEDUNNI 034,Sariyat Iyabo Bello-Lawal,Freedom City Phase 3,1,2500000,2500000,0,0,Installment,6 Months,Completed
+ADEDUNNI 035,Adeboye Opeyemi Otinwa,3 Bed Idera De,1,15000000,15000000,0,0,Installment,18 months,Completed
+ADEDUNNI 035,Mr Adeboye Otinwa And Mrs Rakhia Otinwa,Dreamland Moniya,1,552500,552500,0,0,Outright,Instant,Completed
+ADEDUNNI 035,Mr Adeboye Otinwa And Mrs Rakhia Otinwa,Preston Seaside,1,700000,700000,0,0,Outright,18 months,Completed
+ADEDUNNI 036,Oje Egwajoe,"Victory Park, Ilugun",1,400000,400000,0,0,Installment,12 months,Completed
+ADEDUNNI 037,Emmanuel Olakunle Ogundare,Preston Seaside,1,1000000,360000,640000,0,Installment,12 months,Uncompleted
+ADEDUNNI 039,Oluwatoyin Olatubosun-Ajala,Freedom City Phase 3,1,2000000,2000000,0,0,Installment,12 months,Completed
+ADEDUNNI 040,Yusuf Christopher,Freedom City Phase 3,1,2000000,2000000,0,0,Installment,12 months,Completed
+ADEDUNNI 041,Ibironke Christiana Iduseri,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,6 months,Completed
+ADEDUNNI 042,Usman Latifat Anike,"Greenfield, Abeokuta",1,510000,510000,0,0,Outright,Instant,Completed
+ADEDUNNI 043,Oyindamola Fatusin,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,6 months,Completed
+ADEDUNNI 044,Mrs Maureen Agbowu,"Royal Parks & Garden, Epe",1,750000,100000,650000,0,Installment,12 months,Uncompleted
+ADEDUNNI 045,Olusola Olayiwola Sowunmi,"Greenfield, Abeokuta",1,900000,642000,258000,0,Installment,24 months,Uncompleted
+ADEDUNNI 046,Obi Chibuike Kelvin,"Greenfield, Abeokuta",1,765000,765000,0,0,Installment,12 months,Completed
+ADEDUNNI 048,Ekama Jude Igho,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,12 months,Completed
+ADEDUNNI 049,Mr Valentine Ojiaku And Mrs Ihuoma Ojiaku,"Royal Parks & Garden, Epe",2,2400000,2400000,0,0,Outright,Instant,Completed
+ADEDUNNI 050,Mr Paul Oseji And Mrs Blessing Oseji,"Royal Parks & Garden, Epe",1,1200000,1200000,0,0,Outright,3 months,Completed
+ADEDUNNI 051,Laiyemo Olugbenga Oluwole,"Royal Parks & Garden, Epe",2,1850000,1850000,0,0,Installment,3 months,Completed
+ADEDUNNI 052,Olusegun Jephthah Ajayi,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,9 months,Completed
+ADEDUNNI 054,Christopher Yusuf,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,12 months,Completed
+ADEDUNNI 055,Alfred Omo Barahat,Preston Seaside,3,3150000,3150000,0,0,Outright,Instant,Completed
+ADEDUNNI 056,Adeleke Ahmed Olamilekan,"Royal Parks & Garden, Epe",0.5,1300000,1300000,0,0,Installment,12 months,Completed
+ADEDUNNI 057,Otuwho Keno,"Royal Parks & Garden, Epe",1,1300000,100000,1200000,0,Installment,6 months,Uncompleted
+ADEDUNNI 058,Jamal Olayiwola Hamzat,"Royal Parks & Garden, Epe",1,1300000,1300000,0,0,Installment,12 months,Completed
+ADEDUNNI 059,Mr Olayinka Williams & Mrs Ruth Williams,Idera De- 3 Bedroom Premium,1,21500000,16250000,5250000,0,Installment,24 months,Uncompleted
+ADEDUNNI 060,Adejobi Adebolu,"Royal Parks & Garden, Epe",1,1800000,1800000,0,0,Outright,Instant,Completed
+ADEDUNNI 061,Mr Idris O Williams & Mr Harees O Williams,Idera De- 3 Bedroom Premium,1,21500000,21500000,0,0,Installment,24 months,Completed
+ADEDUNNI 062,Ruth Oluseyi Williams,Idera De- Service Plot,0.5,5000000,5000076,0,76,Installment,12 months,Completed
+ADEDUNNI 063,Shodipo Adedamola Abiodun,Idera De- 3 Bedroom Executive,1,19000000,3350833,15649167,0,Installment,24 months,Uncompleted
+ADEDUNNI 064,Bukola Eigbogba,Legend City,2,3200000,3200000,0,0,Installment,6 months,Completed
+ADEDUNNI 065,Bukola Eigbogba,"Hills and Fountain, Abuja",1,5500000,500000,5000000,0,Installment,6 months,Uncompleted
+ADEDUNNI 065,Michael Chibueze,Legend City,1,1500000,1500000,0,0,Installment,3 months,Completed
+ADEDUNNI 066,Omolara Bayo-Oniyide,Legend City,1,1500000,1500000,0,0,Installment,3 months,Completed
+ADEDUNNI 068,Isiuwa Chinenye Olivia,Legend City,1,1700000,900000,800000,0,Installment,12 months,Uncompleted
+ADEDUNNI 069,David Abu,Legend City,0.5,900000,900000,0,0,Installment,6 months,Completed
+ADEDUNNI 070,Jayden Ojiaku And Zarasochukwu Ojiaku,Legend City,1,1500000,1500000,0,0,Installment,3 months,Completed
+ADEDUNNI 071,Oseji Valerie Chimamanda And Oseji Ariel Chimdiya,Legend City,0.5,1000000,900000,100000,0,Installment,12 months,Uncompleted
+ADEDUNNI 073,Ope Dada Isaac,Legend City 2.0,1,2100000,1200000,900000,0,Installment,12 months,Uncompleted
+ADEDUNNI 074,Olajide Tajudeen Animashaun,Legend City 2.0,2,3600000,3600000,0,0,Outright,Instant,Completed
+ADEDUNNI 075,Babatunde Oluwatoyin Animashaun,Legend City 2.0,1,1800000,1800000,0,0,Outright,Instant,Completed
+ADEDUNNI 076,Timmy William Uwagboe,Legend City,1,2500000,2500000,0,0,Outright,Instant,Completed
+ADEDUNNI 077,Phillip Oreoluwa Oluwasegun,Legend City 2.0,0.5,1200000,850000,350000,0,Installment,3 months,Uncompleted
+ADEDUNNI 078,Funmilayo Williams,Legend City 2.0,0.5,1200000,1200000,0,0,Installment,3 months,Completed
+ADEDUNNI 079,Talabi Opeyemi Janet,Top Grange Farm Estate,12,3600000,3600000,0,0,Outright,Instant,Completed
+ADEDUNNI 080,Kehinde Solomon Ogunware,Top Grange Farm Estate,6,1800000,1800000,0,0,Outright,Instant,Completed
+ADEDUNNI 081,Fadeyibi Oyedepo Adeolu,Freedom City Phase 3,1,2250000,1050000,1200000,0,Installment,,Uncompleted
+TUNMIKE - 0001,Mr Olayemi Olalekan Itiola Adefisayo,"Freedom City, Ibeju Lekki",1,1350000,1350000,0,0,Installment,9 months,Completed
+TUNMIKE - 0002,Mr & Mrs Abdulazeez Ganiyat Balogun,Greenleaf Estate,0.5,450000,55000,395000,0,Installment,12 months,Uncompleted
+TUNMIKE - 0003,Mrs Akinbiyi Dawodu Taibat Adeyosola,"Freedom City, Ibeju Lekki",1,1080000,1330000,0,250000,Outright,Instant,Completed
+TUNMIKE - 0004,Mrs Olatunde Akerele,"Freedom City, Ibeju Lekki",1,1080000,1080000,0,0,Outright,Instant,Completed
+TUNMIKE - 0004,Mrs Olatunde Akerele,"ROCKLAND ESTATE, IBADAN",1,1500000,1500000,0,0,Installment,6 months,Completed
+TUNMIKE - 0005,Mrs Oguntayo Janet Temilola,"Freedom City, Ibeju Lekki",1,1350000,600000,750000,0,Installment,9 months,Uncompleted
+TUNMIKE - 0006,Mr Ayomide Elijah Omole,"Freedom City, Ibeju Lekki",1,1350000,1350000,0,0,Installment,9 months,Completed
+TUNMIKE - 0006,Mr Ayomide Elijah Omole,Greenleaf Estate,1,900000,900000,0,0,Installment,9 months,Completed
+TUNMIKE - 0007,Mr Abuhari Lukman,"Freedom City, Ibeju Lekki",1,1080000,1330000,0,250000,Outright,Instant,Completed
+TUNMIKE - 0008,Mrs Elizabeth Eniola Atotileto,"Freedom City, Ibeju Lekki",1,1350000,300000,1050000,0,Installment,9 months,Uncompleted
+TUNMIKE - 0009,Miss Ifeoluwa Olivia Joel,Freedom City,1,1350000,1350000,0,0,Outright,Instant,Completed
+BILLBOARD - 0009,Miss Owolabi Bolanle,Greenleaf Estate,1,850000,850000,0,0,Outright,Instant,Completed
+TUNMIKE - 0010,Mrs Christine Okpala,Freedom City,2,2700000,2700000,0,0,Installment,9 months,Completed
+TUNMIKE - 0011,Mr Sigmus Ade - Akhani,Freedom City,1,1350000,1350000,0,0,Installment,9 months,Completed
+  TUNMIKE - 0011,Sigmus Ade Akhani,Legend City,2,3400000,1900000,1500000,0,Installment,12 months,Uncompleted
+TUNMIKE 0012,Mrs Patience Ashikodi Adoh Olusegun,Greenleaf Estate,1,900000,900000,0,0,Installment,9 months,Completed
+TUNMIKE-0013,Mr Gideon Tolu Emmanuel,Freedom City,1,1300000,1300000,0,0,Outright,Instant,Completed
+TUNMIKE 0014,Mr Emmanuel Chidiebere Okolie,Dreamland Moniya,1,450000,450000,0,0,Outright,Instant,Completed
+TUNMIKE 0014,Mr Emmanuel Chidiebere Okolie,"Top Grange, Orile Ilugun",2,600000,600000,0,0,Outright,Instant,Completed
+TUNMIKE 0015,Mrs Omolade Olayinka Evelyn,Olive Court Epe,1,765000,965000,0,200000,Outright,Instant,Completed
+TUNMIKE 0015,Mrs Omolade Olayinka Evelyn,Greenleaf Estate,1,800000,920000,0,120000,Outright,Instant,Completed
+TUNMIKE 0016,Mr Opara Chimezie Samuel,Freedom City,0.5,540000,790000,0,250000,Outright,Instant,Completed
+TUNMIKE 0017,Dele Cole & Ibironke Owosuna,Freedom City,1,1350000,1500000,0,150000,Outright,9 months,Completed
+TUNMIKE 0018,Omowunmi Oluwo,Freedom City,2,3240000,3240000,0,0,Outright,Instant,Completed
+TUNMIKE 0019,Mrs Abibat E Saidi,Freedom City,2,2160000,2660000,0,500000,Outright,Instant,Completed
+TUNMIKE 0020,Mrs Oshin Adeshola Dorcas,Preston City Estate Extension Kobape,1,350000,400000,0,50000,Installment,9 months,Completed
+TUNMIKE 0021,Mr Olu-Esan Charles Olugbenga,Dreamland Moniya,1,350000,95000,255000,0,Installment,12 months,Uncompleted
+TUNMIKE 0022,Chukwu Chizaram Christian,Freedom City,1,1350000,1350000,0,0,Installment,9 months,Completed
+TUNMIKE 0023,Edith Azemi Salami,Freedom City,2,2112000,2612000,0,500000,Outright,Instant,Completed
+TUNMIKE 0024,Adedeji Tunmininu Bakare,Victory Park Shimawa,1,1100000,1100000,0,0,Outright,Instant,Completed
+TUNMIKE 0025,Mr Osaigbovo & Mrs Tosin Osaigbovo,Victory Park Shimawa,1,1100000,1100000,0,0,Outright,Instant,Completed
+TUNMIKE 0026,Damola Franklin Olawepo,Freedom City Phase 3,1,1350000,1350000,0,0,Installment,9 months,Completed
+TUNMIKE 0027,Saminu Idris Ishaku,Freedom City,1,1330000,1080000,250000,0,Outright,Instant,Uncompleted
+TUNMIKE 0028,Adedoyin Adaeze Osonowo,Greenleaf Estate,2,1600000,1600000,0,0,Outright,Instant,Completed
+TUNMIKE 0029,Oyinkansola Anulika Osonowo,Greenleaf Estate,4,3200000,3200000,0,0,Outright,Instant,Completed
+TUNMIKE 0030,Adedeji Ikechukwu Osonowo,Greenleaf Estate,2,1600000,1600000,0,0,Outright,Instant,Completed
+TUNMIKE 0032,Nkechi Ofoegbu,Freedom City,1,1350000,1600000,0,250000,Outright,Instant,Completed
+TUNMIKE 0033,Stella Ihegbu,Freedom City,2,2700000,3200000,0,500000,Outright,Instant,Completed
+TUNMIKE 0034,Mr Akinsanya Malik Ayodeji,Freedom City Phase 2,1,1300000,1300000,0,0,Installment,12 months,Completed
+TUNMIKE 0035,Adams Jimoh,Dreamland Moniya,1,280000,280000,0,0,Outright,Instant,Completed
+TUNMIKE 0035,Adams Jimoh,Legend City,1,1700000,1277280,422720,0,Installment,12 months,Uncompleted
+TUNMIKE 0036,Mr Jimoh Sarafa Kolawole,Freedom City,1,1350000,1350000,0,0,Outright,Instant,Completed
+TUNMIKE 0037,Adewale Hammed Akinade,"Kingsland, Epe",1,600000,600000,0,0,Installment,6 months,Completed
+TUNMIKE 0038,Rasheed Lukman Oluwabamidele,Dreamland Moniya,1,497500,497500,0,0,Outright,Instant,Completed
+TUNMIKE 0039,Durojaiye Kassim,Freedom City,1,1350000,1600000,0,250000,Outright,Instant,Completed
+TUNMIKE 0040,Mr Shedrack Success Okpoko And Mrs Lydia E Okpoko,Freedom City,2,2700000,3100000,0,400000,Outright,Instant,Completed
+TUNMIKE 0041,Fausat Olayiwola Balogun,Dreamland Moniya,2,420000,537500,0,117500,Outright,Instant,Completed
+TUNMIKE 0042,Oluwatobi Osho,Rockland Estate Phase 2,1,560000,645000,0,85000,Outright,Instant,Completed
+TUNMIKE 0043,Olayinka Olasupo,Dreamland Moniya,1,280000,280000,0,0,Outright,Instant,Completed
+TUNMIKE 0044,Omozome Andrew James,Rockland Estate Phase 2,1,850000,490000,360000,0,Installment,18 months,Uncompleted
+TUNMIKE 0045,Okeke Michelle Nwachinemere,"Kingsland, Epe",1,350000,350000,0,0,Outright,Instant,Completed
+TUNMIKE 0046,Onyibalu Chijioke Thompson,"Kingsland, Epe",1,350000,350000,0,0,Outright,Instant,Completed
+TUNMIKE 0047,Okeke David Chukwudumebi,"Kingsland, Epe",1,350000,350000,0,0,Outright,Instant,Completed
+TUNMIKE 0048,Emmanuel Dotun Bamgbose,"Greenland, Ifo",2,800000,1400000,0,600000,Outright,Instant,Completed
+TUNMIKE 0048,Emmanuel Dotun Bamgbose,"Kingsland, Epe",1,480000,880000,0,400000,Outright,Instant,Completed
+TUNMIKE 0049,Odiatu Kelvin Chinedu,Freedom City,1,1350000,50000,1300000,0,Installment,24 months,Uncompleted
+TUNMIKE 0050,Oluigbo Chiagoziem,"Kingsland, Epe",1,480000,680000,0,200000,Outright,Instant,Completed
+TUNMIKE 0051,Mr Hamza Abdulrasheed,Dreamland Moniya,1,280000,500000,0,220000,Outright,Instant,Completed
+TUNMIKE 0052,Mr Onyema Okechukwu Joseph,Freedom City,1,1800000,325000,1475000,0,Installment,24 months,Uncompleted
+TUNMIKE 0053,Oluwaseyi Olashore,Dreamland Moniya,1,405000,477500,0,72500,Outright,Instant,Completed
+TUNMIKE 0054,Edoreh Akhigbe Destiny,Freedom City,1,1600000,1000000,600000,0,Installment,24 months,Uncompleted
+TUNMIKE 0055,Adeboye Opeyemi Otinwa,Freedom City,2,2700000,3200000,0,500000,Outright,Instant,Completed
+TUNMIKE 0056,Edoreh Omokhafe David,Freedom City,1,1600000,1000000,600000,0,Installment,12 months,Uncompleted
+TUNMIKE 0057,Ajiboye Ifemide Ehidiamen,Olive Court Epe,1,1000000,1000000,0,0,Installment,6 months,Completed
+TUNMIKE 0058,Rufus Olukayode Odusanya,Freedom City Splendor,1,7000000,7000000,0,0,Installment,6 months,Completed
+TUNMIKE 0059,Regina Omoruyi,Freedom City,2,3200000,100000,3100000,0,Installment,12 months,Uncompleted
+TUNMIKE 0060,Mechie Kenneth Sunday,"Kingsland, Epe",1,1080000,1080000,0,0,Installment,9 months,Completed
+TUNMIKE 0061,Mr Ekanem Iniabasi Raphael,Freedom City,1,1200000,1200000,0,0,Installment,12 months,Completed
+TUNMIKE 0061,Mr Ekanem Iniabasi Raphael,Freedom City Splendor,1,9000000,9000000,0,0,Installment,6 months,Completed
+TUNMIKE 0062,Okigbo Vivian Ogogo,Freedom City,1,1600000,1600000,0,0,Outright,Instant,Completed
+TUNMIKE 0062,Okigbo Vivian Ogogo,Freedom City Phase 1,1,1200000,1800000,0,600000,Outright,Instant,Completed
+TUNMIKE 0063,Odutola Abisoye,"Kingsland, Epe",1,1100000,1100000,0,0,Installment,12 months,Completed
+TUNMIKE 0063,Odutola Abisoye,Freedom City,1,1600000,1600000,0,0,Installment,12 months,Completed
+TUNMIKE 0063,Odutola Abisoye,Olive Court Extension Ibeju Lekki,1,1500000,1500000,0,0,Installment,12 months,Completed
+TUNMIKE 0064,Mr Victor Oghenewegba Agbowu,Olive Court Ibeju Lekki,1,1350000,1350000,0,0,Outright,Instant,Completed
+TUNMIKE 0064,Mr Victor Oghenewegba Agbowu,Olive Court Ibeju Lekki,1,1500000,1500000,0,0,Installment,12 months,Completed
+TUNMIKE 0064,Mr Victor Oghenewegba Agbowu,"Royal Parks & Garden, Epe",0.5,650000,550000,100000,0,Installment,12 months,Uncompleted
+TUNMIKE 0065,Bello Oziegbe Lucky,"Kingsland, Epe",2,2000000,2000000,0,0,Installment,12 months,Completed
+TUNMIKE 0066,Eke Christiana Chioma,Olive Court Extension Ibeju Lekki,1,1500000,1160000,340000,0,Installment,12 months,Uncompleted
+TUNMIKE 0067,Iloegbunam Chidera Bernice,Olive Court Extension Ibeju Lekki,1,1500000,1160000,340000,0,Installment,12 months,Uncompleted
+TUNMIKE 0068,Elizabeth Enojela Shotunde,Olive Court Extension Ibeju Lekki,1,1050000,1050000,0,0,Outright,Instant,Completed
+TUNMIKE 0069,Mrs Deborah Fredricks Abu,"Kingsland, Epe",1,950000,950000,0,0,Installment,6 months,Completed
+TUNMIKE 0069,Mrs Deborah Fredricks Abu,"Victory Park, Ilugun",1,300000,300000,0,0,Installment,6 months,Completed
+TUNMIKE 0069,Mrs Deborah Fredricks Abu,"Top Grange, Orile Ilugun",1,300000,300000,0,0,Outright,Instant,Completed
+TUNMIKE 0070,Atanda Omolayo,Preston City Estate Extension Kobape,1,810000,330000,480000,0,Installment,6 months,Uncompleted
+TUNMIKE 0071,Mrs Sylvester Hawa Usman Enebe,Olive Court Extension Ibeju Lekki,1,1050000,1050000,0,0,Outright,Instant,Completed
+TUNMIKE 0071,Mrs Sylvester Hawa Usman Enebe,"Kingsland, Epe",2,1800000,1800000,0,0,Outright,Instant,Completed
+OFFICE 0168,Mrs Omowunmi Olowu,Freedom City,5,3240000,3990000,0,750000,Outright,Instant,Completed
+OFFICE 0237,Mr Olumide Ogedengbe,Freedom City,4,5080000,5050000,30000,0,Installment,6 months,Uncompleted
+OFFICE 237,Olumide Ogedengbe,Legend City,1,1700000,600000,1100000,0,Installment,12 months,Uncompleted
+OFFICE 238,Olumide Ogedengbe,Ashworth Place,10,30000000,28300000,1700000,0,Installment,3 weeks,Uncompleted
+ABIOLA - 0001,Mr Olorunfemi Oludare Joseph,Freedom City Phase 1,1,1080000,1080000,0,0,Outright,Jun-21,Completed
+ABIOLA - 0002,Mrs Olorunfemi Omolola Felicia,Freedom City Phase 2,1,1080000,1080000,0,0,Outright,Jun-21,Completed
+ABIOLA - 0003,Mr George Gilly Uchenna,"Kingsland, Epe",1,700000,700000,0,0,Installment,Dec-21,Completed
+ABIOLA - 0004,Mr Adesina Bukunmi Adebanjo,"Kingsland, Epe",1,600000,260000,340000,0,Installment,Jul-22,Uncompleted
+ABIOLA - 0005,Mr Adegbite Michael Oluwatosin,Freedom City Phase 1,1,1350000,1350000,0,0,Outright,Jul-21,Completed
+ABIOLA - 0005,Mr Adegbite Michael Oluwatosin,Freedom City Splendor,1,6650000,6650000,0,0,Outright,Aug-21,Completed
+ABIOLA - 0006,Mrs Adegbite Olayinka Esther,Freedom City Phase 1,1,1350000,1350000,0,0,Outright,Jul-21,Completed
+ABIOLA - 0007,Mr Ogochukwu Enyidiegwu,Freedom City Phase 1,1,1620000,1620000,0,0,Installment,May-21,Completed
+ABIOLA - 0008,Salami Shakirudeen Adekunle,Freedom City Splendor,1,6650000,6650000,0,0,Outright,Aug-21,Completed
+ABIOLA - 0009,Shuaib Wasiu Olakunle,"Greenland, Ifo",0.5,200000,200000,0,0,Outright,Aug-21,Completed
+ABIOLA - 0010,Abuku Emmanuel Oghenemaro,Freedom City Phase 1,1,1200000,1200000,0,0,Outright,Oct-21,Completed
+ABIOLA - 0011,Dr Shuaib Ibrahim,Freedom City Phase 2,1,960000,960000,0,0,Outright,Oct-21,Completed
